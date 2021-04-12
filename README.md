@@ -18,9 +18,7 @@ I'm Kunal Mahatha. Currently a CS Undergraduate in the freshman year at BIT Sind
 
 <br />
 <br />
-#### Contact at:
-- :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1..pdf)
-- :email: kunalmahatha@gmail.com
+
 #### Profile Visits 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=kunalmahatha.kunalmahatha)
 <details>
