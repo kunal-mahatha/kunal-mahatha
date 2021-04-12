@@ -26,7 +26,7 @@ I'm Kunal Mahatha. Currently a CS Undergraduate in the freshman year at BIT Sind
   More stuff about me
 </summary>
 <br >
-I love sharing knowledge and putting tutorials, courses and posts together for helping other developers, and tjat's why UnderDog Developer Instagram Page exists!
+I love sharing knowledge and putting tutorials, courses and posts together for helping other developers, and that's why UnderDog Developer Instagram Page exists!
  
 #### What is UnderDog Developer?
 
