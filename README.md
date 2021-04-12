@@ -31,25 +31,7 @@ I'm Kunal Mahatha. Currently a CS Undergraduate in the freshman year at BIT Sind
 I love sharing knowledge and putting tutorials, courses and posts together for helping other developers, and tjat's why UnderDog Developer Instagram Page exists!
 #### What is UnderDog Developer?
 UnderDog Developer is an instagram channel for learning Machine Learning, coding and Hands-on Experience. Including new technologies and frameworks and anything really related to development world.
-#### Coding Stats
-<!--START_SECTION:waka-->
-```text
-Python   15 hrs 41 mins  ████████████████████▓░░░░   82.29 % 
-C++         2 hr 50 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
-Markdown     1 hr 27 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
-Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %  
-```
-<!--END_SECTION:waka-->
+
 #### Github Stats
 ![Kunal Mahatha's github stats](https://github-readme-stats.vercel.app/api?username=kunal-mahatha&count_private=true&theme=tokyonight&hide=contribs,prs)
 </details>
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
