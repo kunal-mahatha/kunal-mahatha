@@ -23,7 +23,7 @@ I'm Kunal Mahatha. Currently a Computer Science Engineering Undergraduate in the
 <br />
 
 #### Profile Visits 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=kunalmahatha.kunalmahatha)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=kunal-mahatha.kunal-mahatha)
 <details>
 <summary>
   More stuff about me
