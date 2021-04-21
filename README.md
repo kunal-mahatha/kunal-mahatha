@@ -1,7 +1,7 @@
 ## Hi I'm Kunal <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 
-[![MasterHead](https://raw.githubusercontent.com/kunal-mahatha/kunal-mahatha/main/Yellow%20and%20Pink%20Beauty%20LinkedIn%20Banner.png)](https://username.github.io)
+'''[![MasterHead](https://raw.githubusercontent.com/kunal-mahatha/kunal-mahatha/main/Yellow%20and%20Pink%20Beauty%20LinkedIn%20Banner.png)](https://username.github.io)'''
 
 I'm Kunal Mahatha. Currently a Computer Science Engineering Undergraduate in the freshman year at BIT Sindri. I am a Machine Learning and Computer Vision Enthusiast, and I love to do hands-on projects and solve real-life problems with the knowledge I have acquired, and learn in order to build something.
 
