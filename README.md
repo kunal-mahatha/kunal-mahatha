@@ -8,7 +8,6 @@ I'm Kunal Mahatha. Currently a Computer Science Engineering Undergraduate in the
  <!-- TODO: Add last video link -->
 
  - 🔭 I’m currently working on Machine Learning, and Computer Vision Projects.
- - 🔭 I’m currently enrolled in Google Cloud Ready Program.
  - :computer: Most used line of code `git commit -m "Initial Commit"`
  - 🤔 I’m looking for help with Outstanding Video ideas for YouTube.
  - 📫 How to reach me: kunalmahatha@gmail.com.
