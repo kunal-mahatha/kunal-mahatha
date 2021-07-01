@@ -10,10 +10,11 @@ I'm Kunal Mahatha. Currently a Computer Science Engineering Undergraduate in the
 
  - 🔭 I’m currently working on Machine Learning, and Computer Vision Projects.
  - :computer: Most used line of code `git commit -m "Initial Commit"`
+ - 🧑🏻‍💻 I'm currently working on [Early Bird App](https://github.com/kunal-mahatha/Early-Bird-App)
  - 🤔 I’m looking for help with Outstanding Video ideas for YouTube.
  - 📫 How to reach me: kunalmahatha@gmail.com.
-- 😄 Pronouns: kunalmahatha, UnderdogDeveloper, iKunal.
-- ⚡ Fun fact: I am Sarcastic.
+ - 😄 Pronouns: kunalmahatha, UnderdogDeveloper, iKunal.
+ - ⚡ Fun fact: I am Sarcastic.
 
 #### Top Technologies
 <!-- TODO: Make technologies links takes you to repositories -->
