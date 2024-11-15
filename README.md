@@ -1,19 +1,24 @@
 ## Hi I'm Kunal <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 
-I'm Kunal Mahatha. Currently a Computer Science Engineering Undergraduate in the freshman year at BIT Sindri. I am a Machine Learning and Computer Vision Enthusiast, and I love to do hands-on projects and solve real-life problems with the knowledge I have acquired, and learn in order to build something.
+👋 Hey there! I'm Kunal Mahatha, and I'm on a thrilling journey in the world of AI and computer vision. 
+
+My adventure has taken me through diverse roles in academic research at ETS Montreal, CVC Spain, Purdue University, and IITs, as well as industrial research at Sony India and PharVision Capital. These experiences have provided me with a backstage pass to the fascinating universe of deep learning and multi-modality. 🚀
+
+Picture this: crafting algorithms that learn and adapt, shaping the future of intuitive systems. From diving into the depths of Computer Vision to playing magic with Python, I'm on a mission to transform cutting-edge research into real-world innovation. 💡
+
+Let's connect and geek out over all things AI. Together, we can turn AI's potential into groundbreaking reality across every industry. Can't wait to share ideas and insights with you! 🤝
 
 [![Linkedin Badge](https://img.shields.io/badge/-kunalmahatha-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kunalmahatha/) [![Mail Badge](https://img.shields.io/badge/-@kunal_mahatha-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/underdog_developer) [![Mail Badge](https://img.shields.io/badge/-Kunal_Mahatha-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC2ISKb1BzlX-ZagjtoKqX1A) [![Mail Badge](https://img.shields.io/badge/-kunalmahatha@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:kunalmahatha@gmail.com) [![Twitter Badge](https://img.shields.io/badge/-@kunal_mahatha-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/kunal_mahatha)](https://twitter.com/) 
 
 <img align="right" width="150" height="150" src="https://github.com/kunal-mahatha/kunal-mahatha/blob/main/b-lapy.png?raw=true0">
  <!-- TODO: Add last video link -->
 
- - 🔭 I’m currently working on Machine Learning, and Computer Vision Projects.
+ - 🔭 I’m currently working on Open-Vocabulary Segmentation Techniques
  - :computer: Most used line of code `git commit -m "Initial Commit"`
  - 🧑🏻‍💻 I'm currently working on [Early Bird App](https://github.com/kunal-mahatha/Early-Bird-App)
  - 🤔 I’m looking for help with Outstanding Video ideas for YouTube.
  - 📫 How to reach me: kunalmahatha@gmail.com.
- - 😄 Pronouns: kunalmahatha, UnderdogDeveloper, iKunal.
  - ⚡ Fun fact: I am Sarcastic.
 
 #### Top Technologies
